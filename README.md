@@ -2,7 +2,7 @@
 Python script for reading values from Graphtec GL840 device (see Figure 1) with PyVisa. Serves as minimum working example.
 
 <p align="center">
-<img src="https://github.com/HaralDev/GraphtecPython/blob/master/Graphtec_GL840.png?raw=true" width="400">
+<img src="https://github.com/HaralDev/GraphtecPython/blob/master/Graphtec_GL840.png" width="400">
   <br>Figure 1: Graphtec GL840 in operation
 </p>
 
