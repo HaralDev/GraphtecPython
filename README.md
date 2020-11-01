@@ -1,5 +1,5 @@
 # Graphtec GL840 interface for Python
-Python script for reading values from Graphtec GL840 device (see Figure 1) with PyVisa. Serves as minimum working example.
+Python script for reading values from [Graphtec GL840](http://www.graphtec.co.jp/en/instruments/gl840/index.html) device (see Figure 1) with PyVisa. Serves as minimum working example.
 
 <p align="center">
 <img src="https://github.com/HaralDev/GraphtecPython/blob/master/Graphtec_GL840.png" width="400">
